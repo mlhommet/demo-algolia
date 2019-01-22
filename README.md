@@ -1,7 +1,9 @@
 
 This project demonstrates the use of Algolia to explore the IMDB movie dataset. It is a single-page React application based on Algolia React InstantSearch.
 
-The code (tries to) follow Algolia Coding guidelines (https://github.com/algolia/eslint-config-algolia).
+The demonstration is running live here: https://mlhommet.github.io/demo-algolia/
+
+
 
 # UI & UX design #
 The search interface provides several options to customize a query.
@@ -20,17 +22,19 @@ The dataset is the IMDB Movies dataset fetched from Algolia's list of datasets.
 
 ## Kickstart react project (45min) ##
 - use algolia ecommerce demo template
-- setup coding style (lint) for VS studio
+- setup Algolia Coding guidelines (lint) for VS studio
 
 ## Development (2h) ##
 - drawing the UI on paper
 - work on Refinement filters:
     - Genre sort strategy: order alphabetically, then by count
     - Ratings: out-of-the-box `RatingMenu`
-    - Actors: order by number of roles ("famousness"), then alphabetically; make the facet searchable due to the large number of actors.
+    - Actors: order by number of roles ("famousness"), then alphabetically; make the facet searchable due to the large number of actors
 - work on Hits display
 - add a "no-result" display policy
 - CSS styling
+
+
 
 ## Write doc and publish website (30min) ##
 # Potential next steps #
