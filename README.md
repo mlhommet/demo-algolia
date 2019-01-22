@@ -1,7 +1,7 @@
 
 This project demonstrates the use of Algolia to explore the IMDB movie dataset. It is a single-page React application based on Algolia React InstantSearch.
 
-The demonstration is running live here: https://mlhommet.github.io/demo-algolia/
+The demonstration is running live here: https://mlhommet.github.io/demo-algolia/index.html
 
 
 
